@@ -9,3 +9,20 @@ body {
   color: white;
   background-color: #0f0a59;
 }
+
+.secret-number {
+  font-size: 2rem;
+  border: 4px solid white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.5rem;
+  margin: 1rem auto;
+  max-width: 250px;
+}
+
+.secret-number,
+.guess-input,
+.btn {
+  font-size: 1.6rem;
+}
