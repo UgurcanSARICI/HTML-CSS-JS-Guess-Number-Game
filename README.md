@@ -1,4 +1,4 @@
-# JavaScript_Todo_list
+# HTML-CSS-JS-Guess-Number-Game
 Guess Number Game
 
 
