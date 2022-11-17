@@ -4,7 +4,7 @@ Guess Number Game
 
 
 ## Description
-Project aims to create Todo_list within html, css and js.
+Project aims to create Guess the Number within html, css and js.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
@@ -21,7 +21,7 @@ Project aims to create Todo_list within html, css and js.
 ## Project Skeleton 
 
 
-Todo_list (folder)
+Guess the Number (folder)
 
 |----readme.md                 
 |----index.html  
